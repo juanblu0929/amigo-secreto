@@ -1,9 +1,9 @@
-<em> # 🎁 Amigo secreto </em>
+<em> # Amigo secreto </em>
 
 Este es un proyecto simple en JavaScript, HTML y CSS que permite organizar un sorteo de Amigo Secreto.
 Los participantes ingresan sus nombres en la aplicación y el sistema realiza un sorteo aleatorio para asignar a cada persona su amigo secreto.
 
-🚀 Características
+<em> # Características <em> 
 
 Añadir participantes a la lista.
 
@@ -13,7 +13,7 @@ Realizar el sorteo de manera aleatoria.
 
 Interfaz sencilla y fácil de usar.
 
-📂 Estructura del proyecto
+<em> # Estructura del proyecto <em> 
 challenge-amigo-secreto_esp-main/
 │── app.js            # Lógica principal en JavaScript
 │── index.html        # Página principal
@@ -22,7 +22,7 @@ challenge-amigo-secreto_esp-main/
 │    ├── amigo-secreto.png
 │    └── play_circle_outline.png
 
-🖥️ Cómo usar
+<em> # Cómo usar <em> 
 
 Clonar este repositorio:
 
